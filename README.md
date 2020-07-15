@@ -1,3 +1,20 @@
+# 2
+
+A: Woher Kommst du?
+
+B: Ich komme aus India / die Uu_Ess_Ahh.
+
+A: Ah. Gut. Welche Sprachen Sprichst Du?
+
+B: Ich spreche Deutsch, Englisch, Tamil und   bisschen Malayalam.
+
+A: Gut du spreachen Tamil.
+
+B: das ist richtig
+
+
+
+
 # 1
 
 
